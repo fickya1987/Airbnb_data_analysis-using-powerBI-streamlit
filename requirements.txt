@@ -1,0 +1,8 @@
+pandas==1.5.3
+pymongo==4.4.0
+pymysql==1.0.2
+streamlit==1.17.0
+plotly==6.0.0
+streamlit-option-menu==0.3.2
+Pillow==9.4.0
+SQLAlchemy==1.4.44
